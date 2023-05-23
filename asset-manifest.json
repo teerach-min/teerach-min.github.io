@@ -1,25 +1,32 @@
 {
   "files": {
-    "main.css": "/static/css/main.69eda509.chunk.css",
-    "main.js": "/static/js/main.6f35edfe.chunk.js",
-    "main.js.map": "/static/js/main.6f35edfe.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a43b6eb2.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a43b6eb2.js.map",
-    "static/css/2.4f9b977f.chunk.css": "/static/css/2.4f9b977f.chunk.css",
-    "static/js/2.9e17bee6.chunk.js": "/static/js/2.9e17bee6.chunk.js",
-    "static/js/2.9e17bee6.chunk.js.map": "/static/js/2.9e17bee6.chunk.js.map",
+    "main.css": "/static/css/main.fef4e7e2.css",
+    "main.js": "/static/js/main.d7d32caa.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/header.png": "/static/media/header.cf7a20344ae3a14cc508.png",
+    "static/media/my-image.jpg": "/static/media/my-image.e3b30e8c978206d699da.jpg",
+    "static/media/logo_laravel.png": "/static/media/logo_laravel.c842e654136f4c5a576e.png",
+    "static/media/logo_codeigniter.png": "/static/media/logo_codeigniter.5d6aae9232e88d74f755.png",
+    "static/media/logo_react.png": "/static/media/logo_react.46293faeaf4a18ab5b85.png",
+    "static/media/logo_python.png": "/static/media/logo_python.fdedb78fd328b854e7ad.png",
+    "static/media/logo_nodejs.png": "/static/media/logo_nodejs.4fc1086624b21728cdef.png",
+    "static/media/logo_css.png": "/static/media/logo_css.7d039f840c0c251dd48a.png",
+    "static/media/logo_html.png": "/static/media/logo_html.3390c0d49bfc70ef4500.png",
+    "static/media/logo_sass.png": "/static/media/logo_sass.08acf38b1b41a158086c.png",
+    "static/media/logo_angular.png": "/static/media/logo_angular.7445276d3657baee3f8e.png",
+    "static/media/logo_expressjs.png": "/static/media/logo_expressjs.dd453aabe35480029eaf.png",
+    "static/media/logo_django.png": "/static/media/logo_django.9075b94a7ba7403be9fe.png",
+    "static/media/logo_javascript.png": "/static/media/logo_javascript.74d59747a21174c73d48.png",
+    "static/media/logo_php.png": "/static/media/logo_php.07d33130778c753d51d7.png",
+    "static/media/logo_fastapi.png": "/static/media/logo_fastapi.983d2c1db37dcb51295f.png",
+    "static/media/logo_go.png": "/static/media/logo_go.9287ecf0141534d4eabd.png",
     "index.html": "/index.html",
-    "precache-manifest.654f652576a97049007cae94842e4908.js": "/precache-manifest.654f652576a97049007cae94842e4908.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.4f9b977f.chunk.css.map": "/static/css/2.4f9b977f.chunk.css.map",
-    "static/css/main.69eda509.chunk.css.map": "/static/css/main.69eda509.chunk.css.map",
-    "static/js/2.9e17bee6.chunk.js.LICENSE.txt": "/static/js/2.9e17bee6.chunk.js.LICENSE.txt"
+    "main.fef4e7e2.css.map": "/static/css/main.fef4e7e2.css.map",
+    "main.d7d32caa.js.map": "/static/js/main.d7d32caa.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.a43b6eb2.js",
-    "static/css/2.4f9b977f.chunk.css",
-    "static/js/2.9e17bee6.chunk.js",
-    "static/css/main.69eda509.chunk.css",
-    "static/js/main.6f35edfe.chunk.js"
+    "static/css/main.fef4e7e2.css",
+    "static/js/main.d7d32caa.js"
   ]
 }
