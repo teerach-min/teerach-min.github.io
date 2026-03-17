@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "./static/css/main.82d4e1d0.css",
-    "main.js": "./static/js/main.4a246527.js",
-    "static/js/787.2d8d76cb.chunk.js": "./static/js/787.2d8d76cb.chunk.js",
+    "main.css": "./static/css/main.d88f4c47.css",
+    "main.js": "./static/js/main.91a0072c.js",
+    "static/js/787.0c2ea620.chunk.js": "./static/js/787.0c2ea620.chunk.js",
     "static/media/my-image.jpg": "./static/media/my-image.d0fa9bdd8058de72275d.jpg",
     "static/media/logo_laravel.png": "./static/media/logo_laravel.c842e654136f4c5a576e.png",
     "static/media/logo_codeigniter.png": "./static/media/logo_codeigniter.5d6aae9232e88d74f755.png",
@@ -22,14 +22,14 @@
     "static/media/logo_go.png": "./static/media/logo_go.9287ecf0141534d4eabd.png",
     "static/media/nestjs-logo.svg": "./static/media/nestjs-logo.8cc42ce999a70203a1c22175f7a6bc52.svg",
     "static/media/flutter-logo.svg": "./static/media/flutter-logo.6a0a2e6200396ba839c9c91a9b016eac.svg",
-    "static/media/nuxt-logo.svg": "./static/media/nuxt-logo.0b628678affc381b314706f44dc1f9d9.svg",
+    "static/media/nuxt-logo.svg": "./static/media/nuxt-logo.da84a0fad4d1947980f2c4b1db1e2d5f.svg",
     "index.html": "./index.html",
-    "main.82d4e1d0.css.map": "./static/css/main.82d4e1d0.css.map",
-    "main.4a246527.js.map": "./static/js/main.4a246527.js.map",
-    "787.2d8d76cb.chunk.js.map": "./static/js/787.2d8d76cb.chunk.js.map"
+    "main.d88f4c47.css.map": "./static/css/main.d88f4c47.css.map",
+    "main.91a0072c.js.map": "./static/js/main.91a0072c.js.map",
+    "787.0c2ea620.chunk.js.map": "./static/js/787.0c2ea620.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.82d4e1d0.css",
-    "static/js/main.4a246527.js"
+    "static/css/main.d88f4c47.css",
+    "static/js/main.91a0072c.js"
   ]
 }
